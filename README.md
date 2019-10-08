@@ -1,1 +1,1 @@
-##  This is a docker repoteru 
+##  This is a docker repositories
